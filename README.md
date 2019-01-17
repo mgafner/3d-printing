@@ -20,4 +20,6 @@ the objects are designed in [FreeCAD](https://www.freecadweb.org/).
 ### Steckdose 230V einfach
 ![Steckdose 230V](https://github.com/mgafner/3d-printing/raw/master/sonoff/Steckdose_230V_einfach/Steckdose_230V_CH_einfach_basis.png)
 
+## Toothbrush Stand
+![Toothbrush Stand](https://github.com/mgafner/3d-printing/raw/master/toothbrush_stand/toothbrush-stand-v2-1.png)
 
