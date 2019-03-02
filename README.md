@@ -23,6 +23,9 @@ the objects are designed in [FreeCAD](https://www.freecadweb.org/).
 ## Toothbrush Stand
 ![Toothbrush Stand](https://github.com/mgafner/3d-printing/raw/master/toothbrush_stand/toothbrush-stand-v2-1.png)
 
+# Towel Labeling
+![Towel Labeling](https://github.com/mgafner/3d-printing/raw/master/towel_labeling/towel_labeling.png)
+
 ## 3D-Printer Renkforce RF 1000 Parts
 ### Filament Holder
 ![Filament Holder](https://github.com/mgafner/3d-printing/raw/master/filament-holder/filament-holder.png)
