@@ -3,6 +3,8 @@ My 3d-printing objects
 
 the objects are designed in [FreeCAD](https://www.freecadweb.org/). 
 
+All the objects were printed with a Renkforce RF1000 3D-printer. As slicing software i am using Ultimaker Cura 3.6. The settings file is available in the settings folder.
+
 ## edizio parts for electric installations in the house
 * part 752 and part 3 (which is normally behind 752)
 * part 752 with a cable slot
